@@ -1,0 +1,27 @@
+{
+  "name": "herokudemo",
+  "version": "1.0.0",
+  "description": "Getting Started on Heroku with Node.js",
+  "main": "index.js",
+  "engines": {
+    "node": "14.x"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rjbrgrewal/herokudemo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rjbrgrewal/herokudemo/issues"
+  },
+  "keywords": [
+    "node",
+    "heroku"
+  ],
+  "homepage": "https://github.com/rjbrgrewal/herokudemo#readme"
+}
