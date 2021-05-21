@@ -1,7 +1,7 @@
 # herokudemo
 Getting Started on Heroku with Node.js
 
-## Heroky and git commands
+## Heroku and git commands
 heroku create
 git remote -v
 heroku buildpacks:set heroku/nodejs
